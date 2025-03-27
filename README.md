@@ -1,2 +1,2 @@
-thanks for checking out our gamejam
+gamejam
 this project is made by daan and tufan
